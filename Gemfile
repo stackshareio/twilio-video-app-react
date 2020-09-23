@@ -1,2 +1,0 @@
-gem 'pundit'
-gem 'stripe'
